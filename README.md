@@ -7,4 +7,4 @@ It is free, safe and no ads at all.
 You can use it repeatedly. When you reach one goal with it, then start for another.
 
 ## Download
-[GoalAid.apk](/download/ga.md)
+[GoalAid.apk](/assets/ga.md)
