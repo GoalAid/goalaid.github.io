@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Life will be different if you set goals for yourself. GoalAid helps you reach your goal by indicating time percentage in the progress. 
+Life can be different if you set goals for yourself. GoalAid helps you reach your goal by indicating time percentage in the progress. 
 
 The colour of green stands for how much time is left to achieve your goal. While the red colour means the time that has passed. 
 
