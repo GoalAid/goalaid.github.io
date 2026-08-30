@@ -47,7 +47,7 @@ SUV - 158 offers from $17.28
 -    Free Cancellation
 
 ## Features That Make Renting Easier
-![car rental fleet](assets/car_rental.jpg)
+![car rental fleet](../assets/car_rental.jpg)
 
 ### Wide Vehicle Selection
 From compact cars to SUVs and premium models, find a rental that matches your route, budget, and travel style.
