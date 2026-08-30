@@ -23,12 +23,12 @@ Compare options, choose what fits, and drive away with confidence.
 e.g.
 | Destination | Offers | Price |
 |-------------|---------|--------|
-|Orlando Airport|Van,54|$28.74|
-|               |SUV,194|$14.13|
-|Rome Airport Fiumicino|Van,82|$12.94|
-|                      |SUV,303|$4.63|
-|Rome Termini Train Station|Van,44|$39.14|
-|                      |SUV,158|$17.28|
+|Orlando Airport|Van, 54|$28.74|
+|               |SUV, 194|$14.13|
+|Rome Airport Fiumicino|Van, 82|$12.94|
+|                      |SUV, 303|$4.63|
+|Rome Termini Train Station|Van, 44|$39.14|
+|                      |SUV, 158|$17.28|
 
 ## Why Travelers Choose DiscoverCars
 -    World's No.1 Car Rental Comparison & Booking online
@@ -87,7 +87,7 @@ Choose your car, confirm your dates, and start your journey with a rental experi
 
 <details>
 <summary><strong>What do I need to rent a car?</strong></summary>
-You typically need a valid driver's license, a payment method(usually a credit card), A passport or other form of identification, and a printed Voucher or an e-Voucher where available.</details>
+You typically need a valid driver's license, a payment method(usually a credit card), a passport or other form of identification, and a printed Voucher or an e-Voucher where available.</details>
 
 <details>
 <summary><strong>Are there different car types available?</strong></summary>
@@ -104,6 +104,11 @@ Pricing is shown upfront so you can review the details before confirming your re
 <details>
 <summary><strong>At what age can I rent a car?</strong></summary>
 You can conveniently check this by entering your age before clicking 'Search now' and with the simplest comparison it shows the total price including an additional **Young Driver Fee** that most rental suppliers charge for renters under the age of 25 though the age varies by supplier and location.</details>
+
+<details>
+<summary><strong>
+Do I need an International Driving Permit (IDP)?</strong></summary>
+It depends on where your driver’s license was issued and where you are traveling. An IDP is always required if your license is not printed in the Roman alphabet or if the destination country legally requires it for foreign drivers.
 
 <details>
 <summary><strong>Can I rent a car without a credit card?</strong></summary>
