@@ -32,25 +32,25 @@ ready for pickup at a bright and welcoming location.
 -    Supportive service that helps you travel with peace of mind
 
 ## Features That Make Renting Easier
-1.Wide Vehicle Selection
+### Wide Vehicle Selection
 From compact cars to SUVs and premium models, find a rental that matches your route, budget, and travel style.
 
 *Place an image here showing a variety of rental cars lined up
 for customers with different travel needs.
 
-2.Simple Booking Experience
+### Simple Booking Experience
 Reserve your vehicle in just a few steps and get the details you need upfront, so planning stays easy.
 
 *Place an image here showing a clean booking interface with
 pickup dates, car choices, and clear pricing.
 
-3.Flexible Rental Options
+### Flexible Rental Options
 Whether you need a car for a few hours or several days, choose a rental period that works for your schedule.
 
 *Place an image here showing a traveler receiving keys at the
 counter with a friendly handoff experience.
 
-4.Reliable Support
+### Reliable Support
 Get help when you need it, from pickup questions to return assistance, so your trip stays on track.
 
 *Place an image here showing a helpful support desk ready to
