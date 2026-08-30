@@ -13,23 +13,27 @@ Prices change unexpectedly, pickup lines take too long, and the car you get is n
 
 Many travelers also struggle with limited vehicle options, unclear insurance terms, and last-minute availability issues. When mobility matters, these problems can slow everything down.
 
-The Solution: Easy Car Rental for Every Journey
+The Solution: DiscoverCars Rental for Every Journey
 
-[Discover Cars](https://www.discovercars.com/?a_aid=paulw) gives you a simple way to book the
-right vehicle for business trips, weekend escapes, and daily travel. 
+[DiscoverCars](https://www.discovercars.com/?a_aid=paulw) gives you a simple way to book the
+right vehicle for business or leisure trips, weekend escapes, and daily travel. 
 
 Compare options, choose what fits, and drive away with confidence.
 
 * Place an image here showing a clean, modern rental car fleet
 ready for pickup at a bright and welcoming location.
 
-## Why Travelers Choose Us
-
+## Why Travelers Choose DiscoverCars
+-    World's No.1 Car Rental Comparison & Booking website
 -    Fast booking that saves time and reduces hassle
 -    Transparent pricing with no surprise add-on stress
 -    Flexible vehicle choices for solo, family, or group travel
 -    Convenient pickup and return options for smoother trips
--    Supportive service that helps you travel with peace of mind
+-    24/7 Support that helps you travel with peace of mind
+-    Trusted by 7M travelers
+-    Recognized with multiple industry awards
+-    Highly recommended by the customers
+-    Free Cancellation
 
 ## Features That Make Renting Easier
 ### Wide Vehicle Selection
@@ -50,8 +54,14 @@ Whether you need a car for a few hours or several days, choose a rental period t
 *Place an image here showing a traveler receiving keys at the
 counter with a friendly handoff experience.
 
-### Reliable Support
-Get help when you need it, from pickup questions to return assistance, so your trip stays on track.
+### No Hidden Fees
+DiscoverCars includes all mandatory fees, taxes, and extras in the quoted price so there won’t be any unpleasant surprises when you arrive at the rental desk.
+
+### Information You Can Trust
+Clear terms and real reviews from millions of drivers
+
+### Reliable 24/7 multilingual Support
+Get help when you need it, from pickup questions to return assistance, so your trip stays on track; help in 15+ languages any time of day
 
 *Place an image here showing a helpful support desk ready to
 assist travelers during their rental journey.
@@ -73,13 +83,14 @@ assist travelers during their rental journey.
 
 Choose your car, confirm your dates, and start your journey with a rental experience designed to be simple and dependable.
 
+**Compare car rental prices at DiscoverCars, you save!**
 [Start Your Booking](https://www.discovercars.com/?a_aid=paulw)
 
 ### Frequently Asked Questions
 
 <details>
 <summary><strong>What do I need to rent a car?</strong></summary>
-You typically need a valid driver's license, a payment method, and any required identification based on local regulations.</details>
+You typically need a valid driver's license, a payment method(usually a credit card), A passport or other form of identification, and a printed Voucher or an e-Voucher where available.</details>
 
 <details>
 <summary><strong>Are there different car types available?</strong></summary>
@@ -94,7 +105,16 @@ Yes. Flexible rental periods make it easy to book for a few hours, a day, a week
 Pricing is shown upfront so you can review the details before confirming your reservation.</details>
 
 <details>
-<summary><strong>What if I need help during my rental?</strong></summary>
-Support is available to help with questions about pickup, returns, or your rental details. </details>
+<summary><strong>At what age can I rent a car?</strong></summary>
+You can conveniently check this by entering your age before clicking 'Search now' and with the simplest comparison it shows the total price including an additional **Young Driver Fee** that most rental suppliers charge for renters under the age of 25 though the age varies by supplier and location.</details>
 
+<details>
+<summary><strong>Can I rent a car without a credit card?</strong></summary>
+If you do not have a credit card, be sure to check the Payment Policy section of the Rental Conditions prior to booking to see if the supplier accepts debit cards.</details>
+
+<details>
+<summary><strong>What if my plans change?</strong></summary>
+you can make changes or cancel your booking for free at any point prior to 48 hours before you are scheduled to pick up the car. </details>
+
+**Save up to 70% on car rentals** *Clear prices, no surprises*
 [Book Your Car](https://www.discovercars.com/?a_aid=paulw)
