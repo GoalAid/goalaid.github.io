@@ -30,7 +30,6 @@ e.g.
 > Rome Airport Fiumicino
 >> Van - 82 offers from $12.94
 >> SUV - 303 offers from $4.63
-
 > Rome Termini Train Station
 >> Van - 44 offers from $39.14
 >> SUV - 158 offers from $17.28
