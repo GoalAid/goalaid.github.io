@@ -16,7 +16,9 @@ Many travelers also struggle with limited vehicle options, unclear insurance ter
 The Solution: Easy Car Rental for Every Journey
 
 [Discover Cars](https://www.discovercars.com/?a_aid=paulw) gives you a simple way to book the
-right vehicle for business trips, weekend escapes, and daily travel. Compare options, choose what fits, and drive away with confidence.
+right vehicle for business trips, weekend escapes, and daily travel. 
+
+Compare options, choose what fits, and drive away with confidence.
 
 * Place an image here showing a clean, modern rental car fleet
 ready for pickup at a bright and welcoming location.
