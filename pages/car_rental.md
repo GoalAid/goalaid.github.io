@@ -21,12 +21,12 @@ right vehicle for business or leisure trips, weekend escapes, and daily travel.
 Compare options, choose what fits, and drive away with confidence.
 
 e.g.
-- Orlando
++ Orlando
 > Orlando Airport
 >> Van - 54 offers from $28.74
 >> SUV - 194 offers from $14.13
-
-- Rome
+<br/>
++ Rome
 > Rome Airport Fiumicino
 >> Van - 82 offers from $12.94
 >> SUV - 303 offers from $4.63
