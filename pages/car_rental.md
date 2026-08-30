@@ -59,21 +59,21 @@ assist travelers during their rental journey.
 ## What Customers Are Saying
 >    "Booking was quick, the car was spotless, and pickup was
     smoother than I expected. I would rent again."
-   * — Maya T., Business Traveler*
+    — *Maya T., Business Traveler*
 
 >    "I loved how easy it was to compare options and find a car
     that fit my family trip perfectly."
-  *  — Daniel R., Family Vacationer*
+    — *Daniel R., Family Vacationer*
 
 >    "No hidden surprises, great service, and the vehicle ran
     perfectly for my weekend drive."
-  *  — Sofia L., Road Trip Customer*
+    — *Sofia L., Road Trip Customer*
 
 ## Ready to Get on the Road?
 
 Choose your car, confirm your dates, and start your journey with a rental experience designed to be simple and dependable.
 
-[Book Your Car](https://www.discovercars.com/?a_aid=paulw)
+[Start Your Booking](https://www.discovercars.com/?a_aid=paulw)
 
 ### Frequently Asked Questions
 
@@ -92,4 +92,4 @@ Pricing is shown upfront so you can review the details before confirming your re
 **What if I need help during my rental?**
 Support is available to help with questions about pickup, returns, or your rental details. 
 
-[Start Your Booking](https://www.discovercars.com/?a_aid=paulw)
+[Book Your Car](https://www.discovercars.com/?a_aid=paulw)
