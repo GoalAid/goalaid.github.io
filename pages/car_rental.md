@@ -21,21 +21,17 @@ right vehicle for business or leisure trips, weekend escapes, and daily travel.
 Compare options, choose what fits, and drive away with confidence.
 
 e.g.
-Orlando
-Orlando Airport
-Van - 54 offers from $28.74
-SUV - 194 offers from $14.13`
-
-Rome
-Rome Airport Fiumicino
-Van - 82 offers from $12.94
-SUV - 303 offers from $4.63
-Rome Termini Train Station
-Van - 44 offers from $39.14
-SUV - 158 offers from $17.28
+| Destination | Offers | Price |
+|-------------|---------|--------|
+|Orlando Airport|Van,54|$28.74|
+|               |SUV,194|$14.13|
+|Rome Airport Fiumicino|Van,82|$12.94|
+|                      |SUV,303|$4.63|
+|Rome Termini Train Station|Van,44|$39.14|
+|                      |SUV,158|$17.28|
 
 ## Why Travelers Choose DiscoverCars
--    World's No.1 Car Rental Comparison & Booking website
+-    World's No.1 Car Rental Comparison & Booking online
 -    Fast booking that saves time and reduces hassle
 -    Transparent pricing with no surprise add-on stress
 -    Flexible vehicle choices for solo, family, or group travel
@@ -57,9 +53,6 @@ Reserve your vehicle in just a few steps and get the details you need upfront, s
 
 ### Flexible Rental Options
 Whether you need a car for a few hours or several days, choose a rental period that works for your schedule.
-
-*Place an image here showing a traveler receiving keys at the
-counter with a friendly handoff experience.
 
 ### No Hidden Fees
 DiscoverCars includes all mandatory fees, taxes, and extras in the quoted price so there won’t be any unpleasant surprises when you arrive at the rental desk.
@@ -118,7 +111,14 @@ If you do not have a credit card, be sure to check the Payment Policy section of
 
 <details>
 <summary><strong>What if my plans change?</strong></summary>
-you can make changes or cancel your booking for free at any point prior to 48 hours before you are scheduled to pick up the car. </details>
+You can make changes or cancel your booking for free at any point prior to 48 hours before you are scheduled to pick up the car. </details>
 
 **Save up to 70% on car rentals** *Clear prices, no surprises*
 [Book Your Car](https://www.discovercars.com/?a_aid=paulw)
+
+---
+<footer class="site-footer">
+<p align="center">
+  This site is maintained by ©{{ site.time | date: "%Y" }} GoalAid
+</p>
+</footer>
