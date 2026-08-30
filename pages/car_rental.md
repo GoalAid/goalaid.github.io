@@ -77,19 +77,24 @@ Choose your car, confirm your dates, and start your journey with a rental experi
 
 ### Frequently Asked Questions
 
-**What do I need to rent a car?**
-You typically need a valid driver's license, a payment method, and any required identification based on local regulations.
+<details>
+<summary><strong>What do I need to rent a car?</strong></summary>
+You typically need a valid driver's license, a payment method, and any required identification based on local regulations.</details>
 
-**Are there different car types available?**
-Yes. You can usually choose from compact cars, sedans, SUVs, and other options depending on availability.
+<details>
+<summary><strong>Are there different car types available?</strong></summary>
+Yes. You can usually choose from compact cars, sedans, SUVs, and other options depending on availability.</details>
 
-**Can I rent a car for a short trip?**
-Yes. Flexible rental periods make it easy to book for a few hours, a day, a weekend, or longer.
+<details>
+<summary><strong>Can I rent a car for a short trip?</strong></summary>
+Yes. Flexible rental periods make it easy to book for a few hours, a day, a weekend, or longer.</details>
 
-**Is pricing clear before I book?**
-Pricing is shown upfront so you can review the details before confirming your reservation.
+<details>
+<summary><strong>Is pricing clear before I book?</strong></summary>
+Pricing is shown upfront so you can review the details before confirming your reservation.</details>
 
-**What if I need help during my rental?**
-Support is available to help with questions about pickup, returns, or your rental details. 
+<details>
+<summary><strong>What if I need help during my rental?</strong></summary>
+Support is available to help with questions about pickup, returns, or your rental details. </details>
 
 [Book Your Car](https://www.discovercars.com/?a_aid=paulw)
