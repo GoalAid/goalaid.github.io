@@ -21,14 +21,19 @@ right vehicle for business or leisure trips, weekend escapes, and daily travel.
 Compare options, choose what fits, and drive away with confidence.
 
 e.g.
-| Destination | Offers | Price |
-|-------------|---------|--------|
-|Orlando Airport|Van,54|$28.74|
-|               |SUV,194|$14.13|
-|Rome Airport Fiumicino|Van,82|$12.94|
-|                      |SUV,303|$4.63|
-|Rome Termini Train Station|Van,44|$39.14|
-|                      |SUV,158|$17.28|
+- Orlando
+Orlando Airport
+```Van - 54 offers from $28.74
+SUV - 194 offers from $14.13
+
+- Rome
+Rome Airport Fiumicino
+```Van - 82 offers from $12.94
+SUV - 303 offers from $4.63
+
+Rome Termini Train Station
+```Van - 44 offers from $39.14
+SUV - 158 offers from $17.28
 
 ## Why Travelers Choose DiscoverCars
 -    World's No.1 Car Rental Comparison & Booking online
