@@ -77,13 +77,12 @@ Get help when you need it, from pickup questions to return assistance, so your t
     — *Sofia L., Road Trip Customer*
 
 ## Ready to Get on the Road?
-
 Choose your car, confirm your dates, and start your journey with a rental experience designed to be simple and dependable.
 
 **Compare car rental prices at DiscoverCars, you save!**
 [Start Your Booking](https://www.discovercars.com/?a_aid=paulw)
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 <details>
 <summary><strong>What do I need to rent a car?</strong></summary>
 You typically need a valid driver's license, a payment method(usually a credit card), a passport or other form of identification, and a printed Voucher or an e-Voucher where available.</details>
@@ -114,7 +113,7 @@ You can make changes or cancel your booking for free at any point prior to 48 ho
 
 <br/>
 **Save up to 70% on car rentals** *Clear prices, no surprises* 
-[Book Your Car](https://www.discovercars.com/?a_aid=paulw)
+👉[Book Your Car](https://www.discovercars.com/?a_aid=paulw)
 
 ---
 <footer class="site-footer">
