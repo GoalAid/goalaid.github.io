@@ -82,7 +82,7 @@ Choose your car, confirm your dates, and start your journey with a rental experi
 **Compare car rental prices at DiscoverCars, you save!**
 [Start Your Booking](https://www.discovercars.com/?a_aid=paulw)
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 <details>
 <summary><strong>What do I need to rent a car?</strong></summary>
 You typically need a valid driver's license, a payment method(usually a credit card), a passport or other form of identification, and a printed Voucher or an e-Voucher where available.</details>
