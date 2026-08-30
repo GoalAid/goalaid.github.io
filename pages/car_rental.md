@@ -30,7 +30,7 @@ e.g.
 > Rome Airport Fiumicino
 >> Van - 82 offers from $12.94
 >> SUV - 303 offers from $4.63
-
+>
 > Rome Termini Train Station
 >> Van - 44 offers from $39.14
 >> SUV - 158 offers from $17.28
@@ -106,7 +106,7 @@ Pricing is shown upfront so you can review the details before confirming your re
 
 <details>
 <summary><strong>At what age can I rent a car?</strong></summary>
-You can conveniently check this by entering your age before clicking 'Search now' and with the simplest comparison it shows the total price including an additional **Young Driver Fee** that most rental suppliers charge for renters under the age of 25 though the age varies by supplier and location.</details>
+You can conveniently check this by entering your age before clicking 'Search now' and with the simplest comparison it shows the total price including an additional *Young Driver Fee* that most rental suppliers charge for renters under the age of 25 though the age varies by supplier and location.</details>
 
 <details>
 <summary><strong>Can I rent a car without a credit card?</strong></summary>
