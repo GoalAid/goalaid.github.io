@@ -20,8 +20,25 @@ right vehicle for business or leisure trips, weekend escapes, and daily travel.
 
 Compare options, choose what fits, and drive away with confidence.
 
+![car rental fleet]()
+e.g.
+`Orlando
+Orlando Airport
+Van - 54 offers from $28.74
+SUV - 194 offers from $14.13`
+
+`Rome
+Rome Airport Fiumicino
+Van - 82 offers from $12.94
+SUV - 303 offers from $4.63
+Rome Termini Train Station
+Van - 44 offers from $39.14
+SUV - 158 offers from $17.28`
+
 * Place an image here showing a clean, modern rental car fleet
 ready for pickup at a bright and welcoming location.
+
+
 
 ## Why Travelers Choose DiscoverCars
 -    World's No.1 Car Rental Comparison & Booking website
@@ -39,14 +56,8 @@ ready for pickup at a bright and welcoming location.
 ### Wide Vehicle Selection
 From compact cars to SUVs and premium models, find a rental that matches your route, budget, and travel style.
 
-*Place an image here showing a variety of rental cars lined up
-for customers with different travel needs.
-
 ### Simple Booking Experience
 Reserve your vehicle in just a few steps and get the details you need upfront, so planning stays easy.
-
-*Place an image here showing a clean booking interface with
-pickup dates, car choices, and clear pricing.
 
 ### Flexible Rental Options
 Whether you need a car for a few hours or several days, choose a rental period that works for your schedule.
@@ -62,9 +73,6 @@ Clear terms and real reviews from millions of drivers
 
 ### Reliable 24/7 multilingual Support
 Get help when you need it, from pickup questions to return assistance, so your trip stays on track; help in 15+ languages any time of day
-
-*Place an image here showing a helpful support desk ready to
-assist travelers during their rental journey.
 
 ## What Customers Are Saying
 >    "Booking was quick, the car was spotless, and pickup was
