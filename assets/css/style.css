@@ -42,3 +42,7 @@ p {
 .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
