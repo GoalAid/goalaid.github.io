@@ -1,6 +1,8 @@
-<span class="text-xs">hello world</span>
+<span class="text-lg">hello world</span>
 
 <p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
+
+<div class="serif">This is an example of a serif font.</div>
 
 # Rent a Car with Confidence and Drive Your Trip Further
 
