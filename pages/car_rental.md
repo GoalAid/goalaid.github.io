@@ -2,6 +2,8 @@
 
 <p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
 
+<p class="p3">This is a paragraph, shown in the Lucida Console font.</p>
+
 <div class="monospace">This is an example of a monospace font.</div>
 
 <span style="color:blue">蓝色字体</span>
