@@ -1,5 +1,6 @@
 <span class="text-xs">hello world</span>
 
+<p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
 
 # Rent a Car with Confidence and Drive Your Trip Further
 
