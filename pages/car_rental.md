@@ -2,7 +2,9 @@
 
 <p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
 
-<div class="serif">This is an example of a serif font.</div>
+<div class="monospace">This is an example of a monospace font.</div>
+
+<span style="color:blue">蓝色字体</span>
 
 # Rent a Car with Confidence and Drive Your Trip Further
 
