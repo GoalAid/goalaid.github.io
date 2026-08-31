@@ -1,35 +1,9 @@
-body {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;
-    line-height: 1.5;
-}
- 
-/* 标题样式 */
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Arial", sans-serif;
-    margin: 10pt 0;
-}
- 
-h1 {
-    font-size: 18pt;
-}
- 
-h2 {
-    font-size: 16pt;
-}
-
-
 .text-xs { font-size: 0.75rem; }
 .text-sm { font-size: 0.875rem; }
 .text-lg { font-size: 1.125rem; }
 .text-xl { font-size: 1.25rem; }
 .text-2xl { font-size: 1.5rem; }
 
-p {
-    font-family: "Times New Roman", Arial, "Microsoft Yahei", sans-serif;
-    font-size: 16px;
-    color: #333;
-}
 
 .p1 {
   font-family: "Times New Roman", Times, serif;
@@ -43,6 +17,4 @@ p {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-.monospace {
-  font-family: "Lucida Console", Courier, monospace;
-}
+
