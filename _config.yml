@@ -1,11 +1,11 @@
 # 必须设置 site.url 才能生成正确的绝对链接
-theme: jekyll-theme-minima
-
+# theme: jekyll-theme-minima
+theme: minima
 url: "https://goalaid.github.io" 
 baseurl: ""
 
 
-title: GA
+title: GoalAid
 description: "A simple and free (Android) app reminds the days left until your goal"
 
 # lang: "en"
