@@ -14,8 +14,8 @@ author:
 
 remote_theme: jekyll-theme-minima@main
 
-header_pages:
-  - about.md  
+# header_pages:
+#  - about.md  
   
 # navigation:
 #  - text: 首页
@@ -44,14 +44,14 @@ plugins:
   - jekyll-feed
   - jekyll-default-layout
 
-header_pages:
-  - architecture.md
+# header_pages:
+#  - architecture.md
 
 future: true
 
 # Jekyll 的全局核心配置：告诉 Jekyll 核心：“我有这些目录，请把它们当成内容仓库来处理。”
 # 目录必须是_开头，不是_开头的目录，Jekyll 认为里面的文件是 pages（页面），会自动抓取到 Header
-collections:
+# collections:
 #  aws:
 #    output: true
 #    permalink: /aws/:title/
