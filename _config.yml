@@ -16,8 +16,8 @@ author:
 
 # remote_theme: jekyll-theme-minima
 
- header_pages:
-  - about.md  
+# header_pages:
+#  - about.md  
   
 # navigation:
 #  - text: 首页
