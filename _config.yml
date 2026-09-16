@@ -12,7 +12,7 @@ author:
 
 # 在 2025 年，GitHub Pages 默认提供的 Jekyll 环境中，minima 主题默认使用的版本依然是 2.5.x 系列。
 
-remote_theme: jekyll-theme-minima@main
+remote_theme: jekyll-theme-minima
 
 # header_pages:
 #  - about.md  
