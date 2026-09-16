@@ -45,7 +45,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate-v2  # 注意：这需要开启 GitHub Actions 才能运行
   - jekyll-feed
-  - jekyll-default-layout
+#  - jekyll-default-layout
 
 # header_pages:
 #  - architecture.md
