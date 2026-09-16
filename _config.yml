@@ -1,6 +1,6 @@
 # 必须设置 site.url 才能生成正确的绝对链接
-# theme: jekyll-theme-minima
-theme: minima
+
+# theme: minima
 url: "https://goalaid.github.io" 
 baseurl: ""
 
@@ -13,6 +13,7 @@ author:
   email: 
 
 # 在 2025 年，GitHub Pages 默认提供的 Jekyll 环境中，minima 主题默认使用的版本依然是 2.5.x 系列。
+remote_theme: jekyll/minima@master
 
 # remote_theme: jekyll-theme-minima
 
