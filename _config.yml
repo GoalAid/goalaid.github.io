@@ -1,0 +1,9 @@
+title: GoalAid
+description: "GoalAid site"
+url: "https://goalaid.github.io"
+baseurl: ""        # MUST be empty for a user (goalaid.github.io)
+theme: minima
+paginate: 5
+# optional: add plugins (if you use them, you may need to build via Actions)
+# plugins:
+#   - jekyll-feed
