@@ -1,0 +1,54 @@
+---
+layout: base
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+</article>
+
+<div class="post-list">
+  {% for post in paginator.posts %}
+    <article>
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+      <div class="excerpt">
+        {% if post.description %}
+          {{ post.description }}
+        {% else %}
+          {{ post.excerpt | strip_html | truncate: 150 }}
+        {% endif %}
+      </div>
+    </article>
+    <p>&nbsp;</p>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; 上一页</a>
+  {% else %}
+    <span>&laquo; 上一页</span>
+  {% endif %}
+
+  {% for trail in paginator.page_trail %}
+    {% if page.url == trail.path %}
+      &nbsp;<span class="current-page">{{ trail.num }}</span>&nbsp;
+    {% else %}
+      &nbsp;<a href="{{ trail.path | relative_url }}">{{ trail.num }}</a>&nbsp;
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">下一页 &raquo;</a>
+  {% else %}
+    <span>下一页 &raquo;</span>
+  {% endif %}
+</nav>
+{% endif %}
