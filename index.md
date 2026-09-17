@@ -7,22 +7,22 @@ description: "Welcome to GoalAid"
 
 ## Hi there 👋
 
-<span style="font-size: 1.125em;">Life can be different if you set goals for yourself. GoalAid helps you reach your goal by indicating time percentage in the progress. 
+<span style="font-size: 1.125em;">Life can be different if you set goals for yourself. GoalAid helps you reach your goal by indicating time percentage in the progress. </span>
 
-The colour of green stands for how much time is left to achieve your goal. While the red colour means the time that has passed. 
+<span style="font-size: 1.125em;">The colour of green stands for how much time is left to achieve your goal. While the red colour means the time that has passed.</span>
 
-The vivid picture of time measurement in colour gives you a clear grasp where you are before your goal and will drive you to take action toward the goal in subconscious. 
+<span style="font-size: 1.125em;">The vivid picture of time measurement in colour gives you a clear grasp where you are before your goal and will drive you to take action toward the goal in subconscious.</span>
 
-Last, it will give you notifications (text & voice) when time is over.
+<span style="font-size: 1.125em;">Last, it will give you notifications (text & voice) when time is over.</span>
 
-It is free, safe and no ads at all.
+<span style="font-size: 1.125em;">It is free, safe and no ads at all.</span>
 
-You can use it repeatedly. When you reach one goal with it, then start for another.</span>
+<span style="font-size: 1.125em;">You can use it repeatedly. When you reach one goal with it, then start for another.</span>
 
 ## Screeshots
-<img src="/assets/images/ss1.jpg" width="50%" height="50%">
+<div align=center><img src="/assets/images/ss1.jpg" width="80%" height="80%"></div>
 
-<img src="/assets/images/ss2.jpg" width="50%" height="50%">
+<div align=center><img src="/assets/images/ss2.jpg" width="80%" height="80%"></div>
 
 ## Download
 [GoalAid.apk](https://github.com/GoalAid/goalaid.github.io/releases/download/v1.1/GoalAid.apk)
