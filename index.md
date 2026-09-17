@@ -20,9 +20,9 @@ description: "Welcome to GoalAid"
 <span style="font-size: 1.125em;">You can use it repeatedly. When you reach one goal with it, then start for another.</span>
 
 ## Screeshots
-<div align=center><img src="/assets/images/ss1.jpg" width="80%" height="80%";style="display:block; margin-bottom:20px;">
+<img src="/assets/images/ss1.jpg" width="80%" height="80%" style="margin-bottom:5px">
 
-<img src="/assets/images/ss2.jpg" width="80%" height="80%"></div>
+<img src="/assets/images/ss2.jpg" width="80%" height="80%">
 
 ## Download
 [GoalAid.apk](https://github.com/GoalAid/goalaid.github.io/releases/download/v1.1/GoalAid.apk)
