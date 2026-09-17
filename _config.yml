@@ -1,7 +1,7 @@
 # 必须设置 site.url 才能生成正确的绝对链接
 
 # theme: minima
-# url: "https://goalaid.github.io" 
+url: "https://goalaid.github.io" 
 baseurl: ""
 
 
