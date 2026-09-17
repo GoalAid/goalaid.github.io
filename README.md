@@ -13,8 +13,8 @@ It is free, safe and no ads at all.
 You can use it repeatedly. When you reach one goal with it, then start for another.
 
 ## Screeshots
-![shot1](/assets/ss1.jpg)
-![shot2](/assets/ss2.jpg)
+![shot1](/assets/images/ss2.jpg)
+![shot2](/assets/images/ss2.jpg)
 
 
 ## Download
