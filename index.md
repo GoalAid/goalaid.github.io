@@ -5,7 +5,7 @@ title: "About GoalAid"
 description: "Welcome to GoalAid"
 ---
 
-<font size=3>Welcome to GoalAid — a tiny app that helps you keep momentum toward your goals by reminding you how many days remain until a target date.</font>
+<font size=5>Welcome to GoalAid — a tiny app that helps you keep momentum toward your goals by reminding you how many days remain until a target date.</font>
 
-<font size=3>We believe simple, timely reminders are powerful. This site documents the project, shares updates, and hosts the app download links.</font>
+<font size=5>We believe simple, timely reminders are powerful. This site documents the project, shares updates, and hosts the app download links.</font>
 
