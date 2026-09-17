@@ -1,59 +1,131 @@
-title: Your awesome title
+# 必须设置 site.url 才能生成正确的绝对链接
+
+# theme: minima
+url: "https://goalaid.github.io" 
+baseurl: ""
+
+
+title: GoalAid
+description: "A simple and free (Android) app reminds the days left until your goal"
+
+# lang: "en"
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  email: 
 
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+# 在 2025 年，GitHub Pages 默认提供的 Jekyll 环境中，minima 主题默认使用的版本依然是 2.5.x 系列。
+remote_theme: jekyll/minima@master
 
-theme: minima
+# remote_theme: jekyll-theme-minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
+# header_pages:
+#  - about.md  
+  
+# navigation:
+#  - text: 首页
+#    url: /
+#  - text: 关于
+#    url: /about/
+#  - text: 文档
+#    url: /docs/
 
 minima:
-  # Minima skin selection. Available skins are:
-  #   Available skins:
-  #     * classic            Default, light color scheme.
-  #     * dark               Dark variant of the classic skin.
-  #     * auto               Adaptive skin based on the default classic and dark skins.
-  #     * solarized-light    Light variant of solarized color scheme.
-  #     * solarized-dark     Dark variant of solarized color scheme.
-  #     * solarized          Adaptive skin for solarized color scheme skins.
+  # 可选值: classic, dark, auto, solarized, solarized-light, solarized-dark
   skin: solarized
+  # 将此项设置为 true 即可隐藏页脚的 RSS 订阅图标/文字
+  hide_site_feed_link: true
+  date_format: "%Y-%m-%d"
 
-  # Specific pages for site navigation.
-  #   If you wish to link only specific pages in the site-navigation, use this and list
-  #   the `path` property (as represented via Liquid) of the pages in the order they
-  #   should be rendered.
-  nav_pages:
-    - about.md
+# 添加下面这一行，禁止 SEO 插件自动生成可能有冲突的标签
+seo:
+  canonical: false
 
-  # Set to `true` to show excerpts on the homepage.
-  show_excerpts: false
 
-  # Minima date format.
-  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
-  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
-  # date_format: "%b-%d-%Y"
+# 启用插件
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate-v2  # 注意：这需要开启 GitHub Actions 才能运行
+  - jekyll-feed
+#  - jekyll-default-layout
 
-  # Social Media Links
-  #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
-  #   Entry keys:
-  #     * title    Tooltip rendered on hovering over icon.
-  #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
-  #     * url      Full URL of social profile.
-  social_links:
-    - title: Minima Theme repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+# header_pages:
+#  - architecture.md
+
+future: true
+
+# Jekyll 的全局核心配置：告诉 Jekyll 核心：“我有这些目录，请把它们当成内容仓库来处理。”
+# 目录必须是_开头，不是_开头的目录，Jekyll 认为里面的文件是 pages（页面），会自动抓取到 Header
+# collections:
+#  aws:
+#    output: true
+#    permalink: /aws/:title/
+#  docker:
+#    output: true
+#    permalink: /docker/:title/
+#  english:
+#    output: true
+#    permalink: /english/:title/
+#  optimize:
+#    output: true
+#  others:
+#    output: true
+#  spring:
+#    output: true
+#  tricks:
+#    output: true
+#  ai:
+#    output: true    
+         
+pagination:
+  
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: true
+  set_seo_metadata: false  # 强制插件不要自动操作 SEO 相关的 head 标签
+
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: true
+
+  # How many objects per paginated page, used to be `paginate` (default: 0, means all)
+  per_page: 5
+
+  # The permalink structure for the paginated pages (this can be any level deep)
+  permalink: '/index-all/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num.html' # Pages are simple html files 
+  #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
+
+  # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
+  title: ':title - 第 :num 页'
+
+  # Limit how many pagenated pages to create (default: 0, means all)
+  limit: 0
+  
+  # Optional, defines the field that the posts should be sorted on (omit to default to 'date')
+  sort_field: 'date'
+
+  # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
+  sort_reverse: true
+
+  # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
+  # category: 'posts'
+
+  # Optional, the default tag to use, omit to disable
+  # tag: ''
+
+  # Optional, the default locale to use, omit to disable (depends on a field 'locale' to be specified in the posts, 
+  # in reality this can be any value, suggested are the Microsoft locale-codes (e.g. en_US, en_GB) or simply the ISO-639 language code )
+  locale: '' 
+
+ # Optional,omit or set both before and after to zero to disable. 
+ # Controls how the pagination trail for the paginated pages look like. 
+  trail: 
+    before: 4 # 当前页之前显示几个页码
+    after: 5
+
+  # Optional, the default file extension for generated pages (e.g html, json, xml).
+  # Internally this is set to html by default
+  extension: html
+
+  # Optional, the default name of the index file for generated pages (e.g. 'index.html')
+  # Without file extension
+  indexpage: 'index-all'
+
+############################################################
