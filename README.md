@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 ## Hi there 👋
 
 Life can be different if you set goals for yourself. GoalAid helps you reach your goal by indicating time percentage in the progress. 
