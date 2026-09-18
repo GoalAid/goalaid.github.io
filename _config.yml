@@ -57,10 +57,10 @@ future: true
 
 # Jekyll 的全局核心配置：告诉 Jekyll 核心：“我有这些目录，请把它们当成内容仓库来处理。”
 # 目录必须是_开头，不是_开头的目录，Jekyll 认为里面的文件是 pages（页面），会自动抓取到 Header
-collections:
-  posts:
-    output: true
-    permalink: /esim/:title/
+# collections:
+#  posts:
+#    output: true
+#    permalink: /esim/:title/
     
 #  aws:
 #    output: true
