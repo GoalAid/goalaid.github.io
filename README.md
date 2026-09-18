@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About GoalAid"
+title: "About"
 # date: 2026-09-17 05:38:00 +0800  # 标准格式
 description: "Welcome to GoalAid"
 ---
