@@ -21,6 +21,7 @@ remote_theme: jekyll/minima@master
 
 nav_pages:
   - README.md
+  - index-all.md
     
 # navigation:
 #  - text: 首页
