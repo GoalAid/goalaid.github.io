@@ -1,8 +1,4 @@
 ---
-layout: pagination
+layout: home
 title: Blog
-pagination: 
-  enabled: true
-  collection: all
-  permalink: '/index-all/:num/'
 ---
