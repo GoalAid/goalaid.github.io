@@ -18,7 +18,10 @@ remote_theme: jekyll/minima@master
 
 # header_pages:
 #  - about.md  
-  
+
+nav_pages:
+  - README.md
+    
 # navigation:
 #  - text: 首页
 #    url: /
