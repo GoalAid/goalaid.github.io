@@ -123,6 +123,6 @@ You can make changes or cancel your booking for free at any point prior to 48 ho
 ---
 <footer class="site-footer">
 <p align="center">
-  This site is maintained by ©{{ site.time | date: "%Y" }} GoalAid
+  ©{{ site.time | date: "%Y" }} GoalAid
 </p>
 </footer>
