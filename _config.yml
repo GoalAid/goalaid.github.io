@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
 #  - jekyll-default-layout
 
-future: true
+# future: true    # show posts with future dates
      
 # pagination:
   
