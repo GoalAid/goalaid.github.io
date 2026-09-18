@@ -14,23 +14,10 @@ author:
 # 在 2025 年，GitHub Pages 默认提供的 Jekyll 环境中，minima 主题默认使用的版本依然是 2.5.x 系列。
 remote_theme: jekyll/minima@master
 
-# remote_theme: jekyll-theme-minima
-
-# header_pages:
-#  - about.md  
-
 nav_pages:
   - README.md
   - index-all.md
     
-# navigation:
-#  - text: 首页
-#    url: /
-#  - text: 关于
-#    url: /about/
-#  - text: 文档
-#    url: /docs/
-
 minima:
   # 可选值: classic, dark, auto, solarized, solarized-light, solarized-dark
   skin: solarized
@@ -50,38 +37,8 @@ plugins:
   - jekyll-feed
 #  - jekyll-default-layout
 
-# header_pages:
-#  - architecture.md
-
 future: true
-
-# Jekyll 的全局核心配置：告诉 Jekyll 核心：“我有这些目录，请把它们当成内容仓库来处理。”
-# 目录必须是_开头，不是_开头的目录，Jekyll 认为里面的文件是 pages（页面），会自动抓取到 Header
-# collections:
-#  posts:
-#    output: true
-#    permalink: /esim/:title/
-    
-#  aws:
-#    output: true
-#    permalink: /aws/:title/
-#  docker:
-#    output: true
-#    permalink: /docker/:title/
-#  english:
-#    output: true
-#    permalink: /english/:title/
-#  optimize:
-#    output: true
-#  others:
-#    output: true
-#  spring:
-#    output: true
-#  tricks:
-#    output: true
-#  ai:
-#    output: true    
-         
+     
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
