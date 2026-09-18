@@ -1,4 +1,4 @@
 ---
-layout: pagination
+layout: home
 title: "Blog"
 ---
