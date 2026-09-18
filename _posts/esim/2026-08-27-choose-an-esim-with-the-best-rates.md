@@ -37,6 +37,6 @@ By understanding your needs, comparing providers strategically, and employing sm
 ---
 <footer class="site-footer">
 <p align="center">
-  This site is maintained by ©{{ site.time | date: "%Y" }} GoalAid
+  ©{{ site.time | date: "%Y" }} GoalAid
 </p>
 </footer>
