@@ -16,7 +16,7 @@ remote_theme: jekyll/minima@master
 
 nav_pages:
   - README.md
-  - index-all.md
+  - blog.md
     
 minima:
   # 可选值: classic, dark, auto, solarized, solarized-light, solarized-dark
