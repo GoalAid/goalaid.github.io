@@ -29,8 +29,6 @@ minima:
 seo:
   canonical: false
 
-paginate: 1
-
 # 启用插件
 plugins:
   - jekyll-remote-theme
