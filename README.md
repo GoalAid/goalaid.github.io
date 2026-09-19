@@ -24,5 +24,13 @@ description: "Welcome to GoalAid"
 
 <p align=center><img src="/assets/images/ss2.jpg" width="80%" height="80%"></p>
 
+## Features
+- App language: English
+- Operating System: Android
+- Last revision: v1.1
+- Size: 1.44 M
+- License: Free
+- Ads: No
+
 ## Download
 [GoalAid.apk](https://github.com/GoalAid/goalaid.github.io/releases/download/v1.1/GoalAid.apk)
