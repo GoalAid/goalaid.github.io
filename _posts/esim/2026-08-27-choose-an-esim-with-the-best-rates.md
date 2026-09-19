@@ -33,10 +33,3 @@ Secondly, bundle wisely. If you're visiting multiple countries within a single r
 Finally, read reviews. Look for recent reviews from other travelers who have used the eSIM provider in your destination. Their experiences with network performance, customer service, and actual data usage can be invaluable.
 
 By understanding your needs, comparing providers strategically, and employing smart purchasing habits, you can ensure your next international adventure is powered by seamless, affordable mobile connectivity, leaving you free to focus on making unforgettable memories.
-
----
-<footer class="site-footer">
-<p align="center">
-  ©{{ site.time | date: "%Y" }} GoalAid
-</p>
-</footer>
