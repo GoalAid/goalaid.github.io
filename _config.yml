@@ -28,13 +28,13 @@ minima:
   date_format: "%Y-%m-%d"
   
   social_links:
-    - title: Minima Theme repository at GitHub
+    - title: GoalAid at GitHub
       icon: github
-      url: "https://github.com/jekyll/minima"
+      url: "https://github.com/GoalAid"
 
-    - title: Jekyll at X
+    - title: GoalAid at X
       icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://x.com/paulw267"
       
 # 添加下面这一行，禁止 SEO 插件自动生成可能有冲突的标签
 seo:
