@@ -122,10 +122,3 @@ You can make changes or cancel your booking for free at any point prior to 48 ho
 <br/>
 **Save up to 70% on car rentals** *Clear prices, no surprises* 
 👉[Book Your Car](https://www.discovercars.com/?a_aid=paulw)
-
----
-<footer class="site-footer">
-<p align="center">
-  ©{{ site.time | date: "%Y" }} GoalAid
-</p>
-</footer>
