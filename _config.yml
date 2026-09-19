@@ -23,7 +23,8 @@ minima:
   # 可选值: classic, dark, auto, solarized, solarized-light, solarized-dark
   skin: solarized
   # 将此项设置为 true 即可隐藏页脚的 RSS 订阅图标/文字
-  hide_site_feed_link: true
+ # hide_site_feed_link: true
+#  hide_site_feed_link: false
   date_format: "%Y-%m-%d"
 
 # 添加下面这一行，禁止 SEO 插件自动生成可能有冲突的标签
@@ -38,6 +39,15 @@ plugins:
 #  - jekyll-default-layout
 
 # future: true    # show posts with future dates
+
+
+social_links:
+    - title: Minima Theme repository at GitHub
+      icon: github
+      url: "https://github.com/jekyll/minima"
+    - title: Jekyll at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/jekyllrb"
      
 # pagination:
   
