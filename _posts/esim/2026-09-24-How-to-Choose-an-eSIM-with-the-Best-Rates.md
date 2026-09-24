@@ -88,7 +88,7 @@ Then buy slightly under your estimate and rely on top-ups. This is where top-up 
 **When unlimited genuinely wins:** short, heavy-use trips (a 5-day trip where you'll stream and navigate constantly), trips where your usage is unpredictable, and any situation where running out of data mid-trip would cost you more than the premium. Otherwise, fixed data at $1.50–$2/GB is the better rate.
 
 [💡] Exception:
-Bloomy Unlimited Max is designed to end the worries of a threshold, a high-speed cap and extra payment sometimes. It's managed by [Bloomy](https://bloomyesim.com/r/joew5) with fair use so that users don't need to worry about the speed and to check the balance. So this premium plan is best for users consuming heavy video, maps, SNS and tethering.
+Bloomy Unlimited Max is designed to end the worries of a data threshold, a high-speed cap and extra payment sometimes. It's managed by [Bloomy](https://bloomyesim.com/r/joew5) with fair use so that users don't need to worry about the speed and to check the balance. So this premium plan is best for users consuming heavy videos, maps, SNS and tethering.
 ![Bloomy Unlimited Max](/assets/images/b_um.jpg)
 
 ## Step 4: Check validity, activation and top-up rules
@@ -136,16 +136,16 @@ On a 10-day trip, a day pass runs $100–$120. A 10 GB travel eSIM for the same 
 
 ## Pre-purchase checklist
 
-🔲 Calculated effective cost per GB, not just sticker price
-🔲 Plan geography matches the itinerary (and I priced the single-country alternative)
-🔲 Data sized from real behavior, with a top-up path priced
-🔲 FUP threshold published in writing, if the plan says "unlimited"
-🔲 Hotspot/tethering allowance confirmed — especially if a laptop is coming
-🔲 Validity starts on first network connection
-🔲 Local network partner(s) named, and more than one in rural/island destinations
-🔲 Phone confirmed eSIM-capable (`*#06#` shows an EID)
-🔲 Phone confirmed carrier-unlocked
-🔲 Refund policy on un-activated eSIMs read, plus 24/7 support available
+- 🔲 Calculated effective cost per GB, not just sticker price
+- 🔲 Plan geography matches the itinerary (and I priced the single-country alternative)
+- 🔲 Data sized from real behavior, with a top-up path priced
+- 🔲 FUP threshold published in writing, if the plan says "unlimited"
+- 🔲 Hotspot/tethering allowance confirmed — especially if a laptop is coming
+- 🔲 Validity starts on first network connection
+- 🔲 Local network partner(s) named, and more than one in rural/island destinations
+- 🔲 Phone confirmed eSIM-capable (`*#06#` shows an EID)
+- 🔲 Phone confirmed carrier-unlocked
+- 🔲 Refund policy on un-activated eSIMs read, plus 24/7 support available
 
 ## FAQ
 
