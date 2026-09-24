@@ -90,6 +90,7 @@ Then buy slightly under your estimate and rely on top-ups. This is where top-up 
 
 *[💡] Exception:
 Bloomy Unlimited Max is designed to end the worries of a threshold, a high-speed cap and extra payment sometimes. It's managed by [Bloomy](https://bloomyesim.com/r/joew5) with fair use so that users don't need to worry about the speed and to check the balance. So this premium plan is best for users consuming heavy video, maps, SNS and tethering.
+![Bloomy Unlimited Max](/assets/images/b_um.jpg)
 
 ## Step 4: Check validity, activation and top-up rules
 
