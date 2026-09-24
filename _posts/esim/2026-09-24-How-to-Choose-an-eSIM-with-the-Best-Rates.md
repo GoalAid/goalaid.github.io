@@ -136,7 +136,7 @@ On a 10-day trip, a day pass runs $100–$120. A 10 GB travel eSIM for the same 
 
 ## Pre-purchase checklist
 
-- `[ ] Calculated effective cost per GB, not just sticker price`
+- [ ] Calculated effective cost per GB, not just sticker price
 - [ ] Plan geography matches the itinerary (and I priced the single-country alternative)
 - [ ] Data sized from real behavior, with a top-up path priced
 - [ ] FUP threshold published in writing, if the plan says "unlimited"
