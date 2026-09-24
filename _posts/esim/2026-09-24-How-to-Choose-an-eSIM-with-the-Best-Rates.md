@@ -2,8 +2,7 @@
 
 The eSIM with the best rate is almost never the one with the lowest sticker price. It's the one with the lowest **effective cost per gigabyte you can actually use** — after throttling, hotspot limits and validity windows take their cut. 
 
-We will deliberate on esims with data plan only in this article excluding a phone number.
-Here's the five-step version:
+We will deliberate on esims with data plan only in this article excluding a phone number. Here's the five-step version:
 
 1. Work out your **cost per GB** (plan price ÷ data), not the headline price.
 2. Match the plan's **geography** to your itinerary — don't pay for 200 countries to visit one.
@@ -137,16 +136,16 @@ On a 10-day trip, a day pass runs $100–$120. A 10 GB travel eSIM for the same 
 
 ## Pre-purchase checklist
 
-* [ ] Calculated effective cost per GB, not just sticker price
-* [ ] Plan geography matches the itinerary (and I priced the single-country alternative)
-* [ ] Data sized from real behavior, with a top-up path priced
-* [ ] FUP threshold published in writing, if the plan says "unlimited"
-* [ ] Hotspot/tethering allowance confirmed — especially if a laptop is coming
-* [ ] Validity starts on first network connection
-* [ ] Local network partner(s) named, and more than one in rural/island destinations
-* [ ] Phone confirmed eSIM-capable (`*#06#` shows an EID)
-* [ ] Phone confirmed carrier-unlocked
-* [ ] Refund policy on un-activated eSIMs read, plus 24/7 support available
+* 🔲 Calculated effective cost per GB, not just sticker price
+* 🔲 Plan geography matches the itinerary (and I priced the single-country alternative)
+* 🔲 Data sized from real behavior, with a top-up path priced
+* 🔲 FUP threshold published in writing, if the plan says "unlimited"
+* 🔲 Hotspot/tethering allowance confirmed — especially if a laptop is coming
+* 🔲 Validity starts on first network connection
+* 🔲 Local network partner(s) named, and more than one in rural/island destinations
+* 🔲 Phone confirmed eSIM-capable (`*#06#` shows an EID)
+* 🔲 Phone confirmed carrier-unlocked
+* 🔲 Refund policy on un-activated eSIMs read, plus 24/7 support available
 
 ## FAQ
 
