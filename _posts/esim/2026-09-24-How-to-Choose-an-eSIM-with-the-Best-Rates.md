@@ -117,7 +117,7 @@ An eSIM plan is worthless on the wrong device, and most providers won't refund a
 
 **Keep your home number alive.** Install the travel eSIM as a second line, set it as your **default for data**, and leave your home SIM on for calls and SMS with data roaming **off**. You keep your number for two-factor codes and WhatsApp while paying local-style data rates. Skipping the "data roaming off" step is how people buy a cheap eSIM and still get a roaming bill.
 
-## eSIM vs US carrier roaming: the actual math {#roaming}
+## eSIM vs US carrier roaming: the actual math
 
 For US travelers, this is the comparison that decides whether an eSIM is worth any effort at all.
 
@@ -150,28 +150,33 @@ On a 10-day trip, a day pass runs $100–$120. A 10 GB travel eSIM for the same 
 
 ## FAQ
 
-**Is an eSIM cheaper than international roaming?**\
- For almost any trip longer than two days, yes. Carrier day passes run about $10–$12 per day, so a 10-day trip costs $100–$120, while a 5–10 GB travel eSIM for the same trip costs $10–$30. Pay-per-use roaming without a pass can reach about $2.05/MB — over $2,000 per GB.
+<details>
+<summary><strong>Is an eSIM cheaper than international roaming?</strong></summary>
+For almost any trip longer than two days, yes. Carrier day passes run about $10–$12 per day, so a 10-day trip costs $100–$120, while a 5–10 GB travel eSIM for the same trip costs $10–$30. Pay-per-use roaming without a pass can reach about $2.05/MB — over $2,000 per GB.</details>
 
-**What's a good price per GB for an eSIM in 2026?**\
- Under about $2/GB is a good rate on a fixed-data plan of 5 GB or more. Small 1 GB plans normally work out to $3–$8/GB, and anything over $5/GB on a larger plan should come with a clear reason, such as a hard-to-cover destination or included calls.
+<details>
+<summary><strong>What's a good price per GB for an eSIM in 2026?</strong></summary>
+Under about $2/GB is a good rate on a fixed-data plan of 5 GB or more. Small 1 GB plans normally work out to $3–$8/GB, and anything over $5/GB on a larger plan should come with a clear reason, such as a hard-to-cover destination or included calls.</details>
 
-**Are unlimited eSIM plans worth it?**\
- Only if you'll genuinely use heavy data. Unlimited plans are throttled by a fair usage policy — commonly 2–5 GB per day — and often cap hotspot use at 500 MB–1 GB per day. Divide the price by the data you'll realistically use: if that number is above about $3/GB, a fixed-data plan is the better rate.
+<details>
+<summary><strong>Are unlimited eSIM plans worth it?</strong></summary>
+Only if you'll genuinely use heavy data. Unlimited plans are throttled by a fair usage policy — commonly 2–5 GB per day — and often cap hotspot use at 500 MB–1 GB per day. Divide the price by the data you'll realistically use: if that number is above about $3/GB, a fixed-data plan is the better rate.</details>
 
-**Does my phone support eSIM?**\
- Dial `*#06#`; if an EID appears, it does. All iPhone XR/XS and newer support eSIM, and US iPhone 14 models and later are eSIM-only. Google Pixel 3 and newer and Samsung Galaxy S20 and newer generally support it. The phone must also be carrier-unlocked — check Settings → General → About → Carrier Lock on iPhone.
+<details>
+<summary><strong>Does my phone support eSIM?</strong></summary>
+Dial `*#06#`; if an EID appears, it does. All iPhone XR/XS and newer support eSIM, and US iPhone 14 models and later are eSIM-only. Google Pixel 3 and newer and Samsung Galaxy S20 and newer generally support it. The phone must also be carrier-unlocked — check Settings → General → About → Carrier Lock on iPhone.</details>
 
-**Can I keep my own phone number with a travel eSIM?**\
- Yes. Install the eSIM as a second line, set it as your default for data, and keep your home SIM active for calls and texts with data roaming switched off. Most travel eSIMs are data-only and don't provide a local number.
+<details>
+<summary><strong>Can I keep my own phone number with a travel eSIM?</strong></summary>
+Yes. Install the eSIM as a second line, set it as your default for data, and keep your home SIM active for calls and texts with data roaming switched off. Most travel eSIMs are data-only and don't provide a local number.</details>
 
-**Should I buy the eSIM before I travel or after I land?**\
- Buy and install before you fly, while you still have Wi-Fi — installation needs a connection. Choose a plan whose validity starts on first connection to a network in your destination, so the clock doesn't start early.
+<details>
+<summary><strong>Should I buy the eSIM before I travel or after I land?</strong></summary>
+Buy and install before you fly, while you still have Wi-Fi — installation needs a connection. Choose a plan whose validity starts on first connection to a network in your destination, so the clock doesn't start early.</details>
 
 ***
 
-**Ready to take a worry free esim plan?** ➡️`[Visit Bloomy Now](https://bloomyesim.com/r/joew5)`. Run the effective-cost-per-GB formula on the two or three plans that fit your trip, and buy the one that's cheapest on the data you'll actually use.
+**Ready to take a worry free esim plan?** ➡️[Visit Bloomy Now](https://bloomyesim.com/r/joew5). Run the effective-cost-per-GB formula on the two or three plans that fit your trip, and buy the one that's cheapest on the data you'll actually use.
 
 ----------
-*Prices in this guide were verified in September 2026 and are reviewed monthly. Carrier and provider pricing changes frequently — always confirm on the provider's own page before purchase.*
-
+(*Prices in this guide were verified in September 2026 and are reviewed monthly. Carrier and provider pricing changes frequently — always confirm on the provider's own page before purchase.*)
