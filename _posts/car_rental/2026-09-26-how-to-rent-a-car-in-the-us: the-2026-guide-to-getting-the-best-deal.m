@@ -66,7 +66,7 @@ At the counter you'll usually be offered four products. Here is what each one do
 **Before you travel, make two calls:**
 
 1. **Your auto insurer.** Ask: *Does my policy cover rental cars, including collision, liability and "loss of use" fees? What's my deductible?*
-2. **Your credit card issuer.** Ask: *Is rental coverage* _**primary**_ or _**secondary**_? *Which vehicles and countries are excluded?* Primary coverage pays first, so you don't have to file a claim on your own policy.
+2. **Your credit card issuer.** Ask: *Is rental coverage* **primary** or **secondary**? *Which vehicles and countries are excluded?* Primary coverage pays first, so you don't have to file a claim on your own policy.
 
 To use a credit card's coverage, you typically must **pay for the whole rental with that card** and **decline the company's CDW/LDW**.
 
