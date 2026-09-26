@@ -188,7 +188,7 @@ For most US trips, about 3–6 weeks ahead gets good prices. Book earlier for ho
 
 ### Is it cheaper to rent a car at the airport?
 
-Usually not. Airport locations add concession and facility fees. Off-airport branches are often cheaper, but compare the savings against the cost of getting there.
+Usually not. Airport locations add concession and facility fees. Off-airport branches are often cheaper, but compare the savings against the cost of getting there.</details>
 
 ### Can I add another driver?
 
