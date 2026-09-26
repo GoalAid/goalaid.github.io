@@ -6,7 +6,7 @@
 
 Renting a car in the US is easy once you know the rules. It gets expensive when you don't. Prices swing by the day, airport counters add fees you never saw online, and the insurance pitch at pickup can double your bill.
 
-This guide covers what you need to rent, how insurance works, which fees to watch for and how to pay less. If you already know the basics, skip ahead to **[10 ways to get a cheaper car rental](#10-ways-to-get-a-cheaper-car-rental)** or **[compare prices now](https://www.discovercars.com/?a_aid=paulw)**.
+This guide covers what you need to rent, how insurance works, which fees to watch for and how to pay less. If you already know the basics, skip ahead to **[10 ways to get a cheaper car rental](#10-ways-to-get-a-cheaper-car-rental)** or **[compare prices now]([AFFILIATE)**.
 
 ## Quick answer: the cheapest way to rent a car
 
@@ -16,7 +16,7 @@ This guide covers what you need to rent, how insurance works, which fees to watc
 4. **Use the coverage you already have.** Your auto policy or credit card may make the counter's damage waiver unnecessary.
 5. **Return the car full of gas, on time, and take photos.**
 
-👉 **[Compare car rental prices across top US companies](https://www.discovercars.com/?a_aid=paulw)**
+👉 **[Compare car rental prices across top US companies]([AFFILIATE)**
 
 ***
 
@@ -66,7 +66,7 @@ At the counter you'll usually be offered four products. Here is what each one do
 **Before you travel, make two calls:**
 
 1. **Your auto insurer.** Ask: *Does my policy cover rental cars, including collision, liability and "loss of use" fees? What's my deductible?*
-2. **Your credit card issuer.** Ask: *Is rental coverage* **primary** or **secondary**? *Which vehicles and countries are excluded?* Primary coverage pays first, so you don't have to file a claim on your own policy.
+2. **Your credit card issuer.** Ask: *Is rental coverage* ***primary**** or* ***secondary****? Which vehicles and countries are excluded?* Primary coverage pays first, so you don't have to file a claim on your own policy.
 
 To use a credit card's coverage, you typically must **pay for the whole rental with that card** and **decline the company's CDW/LDW**.
 
@@ -94,7 +94,7 @@ To use a credit card's coverage, you typically must **pay for the whole rental w
 
 ## 10 ways to get a cheaper car rental
 
-1. **Compare several companies at once.** Prices for the same car class at the same airport can differ a lot between companies. A comparison site like **[DiscoverCars](https://www.discovercars.com/?a_aid=paulw)** shows them side by side with mandatory fees included.
+1. **Compare several companies at once.** Prices for the same car class at the same airport can differ a lot between companies. A comparison site like **[DiscoverCars]([AFFILIATE)** shows them side by side with mandatory fees included.
 2. **Book with free cancellation, then re-check.** Rental prices fall as well as rise. If you find a lower price later, re-book and cancel the original.
 3. **Book about 3–6 weeks out**, and earlier for holidays, spring break, and summer in Florida, Hawaii and national-park gateways.
 4. **Check off-airport branches.** A short rideshare to a city location can save airport fees. Do the math, including the rideshare fare.
@@ -120,7 +120,7 @@ To use a credit card's coverage, you typically must **pay for the whole rental w
 | **Sixt**                                                                 | Premium European models at competitive prices; growing US footprint | Sixt Advantage / ONE    |
 | **Turo**                                                                 | Peer-to-peer rentals from private owners                            | —                       |
 
-Not sure which one is cheapest for your trip? **[See them side by side for your dates →](https://www.discovercars.com/?a_aid=paulw)**
+Not sure which one is cheapest for your trip? **[See them side by side for your dates →]([AFFILIATE)**
 
 ***
 
@@ -160,7 +160,7 @@ Not sure which one is cheapest for your trip? **[See them side by side for your 
 
 Compare prices from the major US companies and local suppliers in one search. Totals include mandatory fees, most bookings offer free cancellation up to 48 hours before pickup, and 24/7 support is available if plans change.
 
-👉 **[Compare car rental prices at DiscoverCars](https://www.discovercars.com/?a_aid=paulw)**
+👉 **[Compare car rental prices at DiscoverCars]([AFFILIATE)**
 
 ***
 
@@ -201,3 +201,4 @@ With a free-cancellation booking, you can usually change or cancel at no cost up
 ### Can I take a US rental car to Canada or Mexico?
 
 Canada is usually allowed with major companies. Tell them at booking. Mexico typically requires special permission and Mexican liability insurance, and many companies don't allow it.
+
