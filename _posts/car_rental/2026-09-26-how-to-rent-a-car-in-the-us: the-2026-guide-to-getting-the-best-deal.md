@@ -1,7 +1,5 @@
 # How to Rent a Car in the US: The 2026 Guide to Getting the Best Deal
 
-*Last updated: September 2026 · Reading time: 9 minutes*
-
 > **Disclosure:** This guide contains affiliate links. If you book through them, GoalAid may earn a commission at no extra cost to you. We only recommend tools we would use ourselves.
 
 Renting a car in the US is easy once you know the rules. It gets expensive when you don't. Prices swing by the day, airport counters add fees you never saw online, and the insurance pitch at pickup can double your bill.
