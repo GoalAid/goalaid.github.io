@@ -102,7 +102,7 @@ To use a credit card's coverage, you typically must **pay for the whole rental w
 6. **Pick the smallest car you'll be comfortable in.** Economy and compact cars are cheapest. Free upgrades are common when small cars run out.
 7. **Use memberships and warehouse clubs.** Costco Travel, AAA, AARP and some airline or hotel programs offer discounts or free extras.
 8. **Join free loyalty programs.** Enterprise Plus, Hertz Gold Plus Rewards, Avis Preferred and National Emerald Club let you skip the counter, and some let you choose your own car.
-9. **Decline coverage you don't need.** See the [insurance section](/2026-09-05-rental-car-insurance-what-you-actually-need). This is often the biggest single saving.
+9. **Decline coverage you don't need.** See the [insurance section](#rental-car-insurance-what-you-actually-need). This is often the biggest single saving.
 10. **Consider peer-to-peer (Turo) for unusual needs.** It can be cheaper for specific models or in areas with few rental branches. Check insurance and mileage limits carefully.
 
 ***
