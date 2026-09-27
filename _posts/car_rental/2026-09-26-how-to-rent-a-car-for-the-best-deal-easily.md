@@ -14,8 +14,6 @@ This guide covers what you need to rent, how insurance works, which fees to watc
 4. **Use the coverage you already have.** Your auto policy or credit card may make the counter's damage waiver unnecessary.
 5. **Return the car full of gas, on time, and take photos.**
 
-👉 **[Compare car rental prices across top US companies](https://www.discovercars.com/?a_aid=paulw)**
-
 ***
 
 ## What you need to rent a car in the US
@@ -105,22 +103,7 @@ To use a credit card's coverage, you typically must **pay for the whole rental w
 
 <p align=center><img src="/assets/images/dc.jpg" width="80%" height="80%"></p>
 
-***
-
-## Major US car rental companies at a glance
-
-| Company (group)                                                          | Best known for                                                      | Loyalty program         |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------- | ----------------------- |
-| **Enterprise** (Enterprise Mobility, which also owns National and Alamo) | Largest network of neighborhood branches; strong customer service   | Enterprise Plus         |
-| **National**                                                             | Business travelers; "choose any car in the aisle" for members       | Emerald Club            |
-| **Alamo**                                                                | Leisure and family travel; often good airport rates                 | Alamo Insiders          |
-| **Hertz** (also owns Dollar and Thrifty)                                 | Wide airport presence, large EV fleet                               | Hertz Gold Plus Rewards |
-| **Avis** (Avis Budget Group)                                             | Premium airport service                                             | Avis Preferred          |
-| **Budget**                                                               | Value-focused sister brand of Avis                                  | Budget Fastbreak        |
-| **Sixt**                                                                 | Premium European models at competitive prices; growing US footprint | Sixt Advantage / ONE    |
-| **Turo**                                                                 | Peer-to-peer rentals from private owners                            | —                       |
-
-Not sure which one is cheapest for your trip? **[See them side by side for your dates →](https://www.discovercars.com/?a_aid=paulw)**
+👉 **[DiscoverCars makes car rental easy](https://www.discovercars.com/?a_aid=paulw)**
 
 ***
 
