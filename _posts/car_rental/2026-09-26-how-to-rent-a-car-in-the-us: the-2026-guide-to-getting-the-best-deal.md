@@ -103,6 +103,8 @@ To use a credit card's coverage, you typically must **pay for the whole rental w
 9. **Decline coverage you don't need.** See the [insurance section](#rental-car-insurance-what-you-actually-need). This is often the biggest single saving.
 10. **Consider peer-to-peer (Turo) for unusual needs.** It can be cheaper for specific models or in areas with few rental branches. Check insurance and mileage limits carefully.
 
+![search snapshot at DiscoverCars](/assets/images/dc.jpg)
+
 ***
 
 ## Major US car rental companies at a glance
