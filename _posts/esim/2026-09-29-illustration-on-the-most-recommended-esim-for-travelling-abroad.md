@@ -71,7 +71,7 @@ The payment method is also very simple—only a visa card is needed. There aren'
 ## 11. Data balance
 It's also very simple to check the balance. Just login on its website and then click "My Page" to see the remaining data. You don't have to install and operate on the app.
 
-![check esim data balance](/assets/images/b_illus/data_balance.jpg)
+![check esim data balance](/assets/images/b_illus/check_balance.jpg)
 
 ## 12. Highlight
 An AI tool will give you a fast and accurate esim plan. You only need to fill in the destination and days then hit the "Show my plan". 
