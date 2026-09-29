@@ -84,4 +84,4 @@ An AI tool will give you a fast and accurate esim plan. You only need to fill in
 
 It's all that simple to choose the best esim plan with Bloomy. More important, buying an esim with Bloomy means more reliable, guarantee in stream and data (especially with its "Unlimited Max"), and hassle-free in use.
 
-Are you interested and want to learn more? Please [visit Bloomy now](https://bloomyesim.com/r/joew5) to save and book mark its website. Find and get the best esim plan for your next travel abroad. Good luck!
+Are you interested and want to learn more? Please [visit Bloomy now](https://bloomyesim.com/r/joew5) to save and bookmark its website. Find and get the best esim plan for your next travel abroad. Good luck!
