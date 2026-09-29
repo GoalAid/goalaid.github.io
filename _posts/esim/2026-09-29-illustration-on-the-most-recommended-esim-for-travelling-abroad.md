@@ -29,16 +29,16 @@ Bloomy lists the popular destinations on the search box page based on its data r
 
 <p align=center><img src="/assets/images/b_illus/p_destination.jpg" width="85%" height="85%"></p>
 
-## 6. Data Calculation
+## 6. Data calculation
 It allows you to estimate how much data you will use on the basis of your travel destination and length, and how you will use the data. For example, will you be a heavy user for videos or maps abroad, etc.? 
 
 <p align=center><img src="/assets/images/b_illus/data_calculate.jpg" width="85%" height="85%"></p>
 
 This will help you choose an esim plan which is the most suitable for your travelling and save your money.
 
-The data Calculation is very easy to do. You don't need to sign up to do it.
+The data calculation is very easy to do. You don't need to sign up to do it.
 
-## 7. Setup Guide
+## 7. Setup guide
 Bloomy details the knowledge and steps before you buy and install an esim, not just selling but for education.
 
 <p align=center><img src="/assets/images/b_illus/setup_guide.jpg" width="85%" height="85%"></p>
@@ -84,4 +84,4 @@ An AI tool will give you a fast and accurate esim plan. You only need to fill in
 
 It's all that simple to choose the best esim plan with Bloomy. More important, buying an esim with Bloomy means more reliable, guarantee in stream and data (especially with its "Unlimited Max"), and hassle-free in use.
 
-Are you interested and want to learn more? Please visit Bloomy now to save and book mark its website. Find and get the best esim plan for your next travel abroad. Good luck!
+Are you interested and want to learn more? Please [visit Bloomy now](https://bloomyesim.com/r/joew5) to save and book mark its website. Find and get the best esim plan for your next travel abroad. Good luck!
