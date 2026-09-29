@@ -78,7 +78,7 @@ It's also very simple to check the balance. Just login on its website and then c
 <p align=center><img src="/assets/images/b_illus/check_balance.jpg" width="85%" height="85%"></p>
 
 ## 12. Highlight
-An AI tool will give you a fast and accurate esim plan. You only need to fill in the destination and days then hit the "Show my plan". 
+An AI tool will give you a fast and accurate esim plan. You only need to fill in the destination and days then hit the "Show my plan" button. 
 
 <p align=center><img src="/assets/images/b_illus/esim_suggest.jpg" width="85%" height="85%"></p>
 
