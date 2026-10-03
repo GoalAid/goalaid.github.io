@@ -1,4 +1,8 @@
-# How to Choose an eSIM with the Best Rates
+---
+layout: post
+title: How to Choose an eSIM with the Best Rates
+description: Choosing an esim with the best rates can not only save your money, but also give you good experience in web surfing.
+---
 
 The eSIM with the best rate is almost never the one with the lowest sticker price. It's the one with the lowest **effective cost per gigabyte you can actually use** — after throttling, hotspot limits and validity windows take their cut. 
 
