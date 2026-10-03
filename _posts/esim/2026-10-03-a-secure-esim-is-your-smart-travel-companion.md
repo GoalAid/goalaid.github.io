@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A Secure eSIM Is Your Smart Travel Companion
-description: If you are concerned about your privacy when connecting to the internet for trips abroad, a secure esim like Stellar esim will be the best for help.
+description: If you are concerned about your privacy for connection to the internet on trips abroad, a secure esim like Stellar esim will be the best for help.
 ---
 
 For modern travelers, staying connected is no longer a luxury; it's a necessity. But the thought of managing physical SIM cards and hefty roaming charges can add unnecessary stress to your adventures. Enter the eSIM – a revolutionary technology that offers convenience, flexibility, and importantly, a **secure eSIM** solution for global connectivity.
