@@ -36,8 +36,10 @@ seo:
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate-v2  # 注意：这需要开启 GitHub Actions 才能运行
+  - jekyll-seo-tag  
   - jekyll-feed
-#  - jekyll-default-layout
+  
+# - jekyll-default-layout
 
 # future: true    # show posts with future dates
 
