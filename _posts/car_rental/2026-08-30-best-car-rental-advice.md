@@ -1,9 +1,12 @@
-# Rent a Car with Confidence and Drive Your Trip Further
+---
+layout: post
+title: Best Car Rental Advice
+description: This post explains why DiscoverCars should be considered if you try to make easy, reliable and good price car rentals.
+---
 
 Renting a car should feel simple, fast, and flexible.
 
-Choose the right vehicle, pick the right price, and hit the road
-without the stress of hidden fees or long waits.
+Choose the right vehicle, pick the right price, and hit the road without the stress of hidden fees or long waits.
 
 ## The Problem: Travel Shouldn't Stop at the Car Counter
 
