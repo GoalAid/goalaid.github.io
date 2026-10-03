@@ -8,7 +8,7 @@ For modern travelers, staying connected is no longer a luxury; it's a necessity.
 
 Imagine landing in a new country, your phone automatically connecting to a local network without a single swap of a tiny chip. This is the promise of eSIM technology, and with a focus on security, it’s transforming how we explore the world.
 
-## The Security Advantages of a Secure eSIM for Travelers
+## The Security Advantages of a **Secure eSIM** for Travelers
 
 When you’re abroad, the security of your mobile connection is paramount. Using a **secure eSIM** offers several advantages over traditional SIM cards, especially when connecting to unfamiliar networks.
 
@@ -46,10 +46,10 @@ A Stellar esim includes VPN inherently. So don't worry for extra costs.
 An esim with VPN can strengthen a secure internet connection during your trips abroad.
 
 -  hide the IP  
->Your public IP is replaced with Stellar's secure network. So it helps to keep your location and device identity private.
+> Your public IP is replaced with Stellar's secure network. So it helps to keep your location and device identity private.
 
 -  Block trackers automatically
->Stellar reduces third-party tracking before it reaches you. So fewer companies can follow your activity.
+> Stellar reduces third-party tracking before it reaches you. So fewer companies can follow your activity.
 
 Stellar eSIM includes the security layer, on every plan.
 
