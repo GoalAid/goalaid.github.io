@@ -1,4 +1,8 @@
-# The 2026 Guide to Getting the Best Car Rental Deal in the US
+---
+layout: post
+title: The 2026 Guide to Getting the Best Car Rental Deal in the US
+description: Getting the best car rental deal goes simple with DiscoverCars as it offers a free tool on its website for you to search and compare and the listed price is final meaning all possible costs are involved.
+---
 
 > **Disclosure:** This guide contains affiliate links. If you book through them, GoalAid may earn a commission at no extra cost to you. We only recommend tools we would use ourselves.
 
