@@ -57,4 +57,4 @@ The eSIM is more than just a technological upgrade; it's a paradigm shift in how
 
 By understanding and utilizing a **secure eSIM**, you can ensure your digital life remains protected and your adventures uninterrupted.
 
-If you are just concerned about your digital privacy when travelling, Stellar esim is the most perfect one for you!
+If you are just concerned about your digital privacy when traveling, Stellar esim is the most perfect one for you!
