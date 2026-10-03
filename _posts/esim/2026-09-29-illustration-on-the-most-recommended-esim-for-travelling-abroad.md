@@ -1,4 +1,8 @@
-# Illustration on The Most Recommended eSIM for Travelling Abroad
+---
+layout: post
+title: Illustration on The Most Recommended eSIM for Travelling Abroad
+description: This post illustrates why Bloomy eSIM is the recommended esim for travelling abroad.
+---
 
 In speaking of the best esim for travelling abroad, I strongly recommend Bloomy for some reasons below.
 
