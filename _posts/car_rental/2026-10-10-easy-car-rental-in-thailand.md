@@ -43,7 +43,7 @@ Sort these three out before your trip and the rest is easy.
 
 You need a **valid, full driving licence** from your home country. If it isn't in English, or you're visiting as a tourist from outside ASEAN, bring an **International Driving Permit** as well. Major brands increasingly ask for one at the counter. Police at checkpoints may ask for it too, and travel insurance may not pay out if you drove without the right documents.
 
-**Tip:** Get your IDP in your home country before you leave. It usually takes a few days and costs little. Always carry it **together with** your original licence; an IDP isn't valid on its own.
+💡**Tip:** Get your IDP in your home country before you leave. It usually takes a few days and costs little. Always carry it **together with** your original licence; an IDP isn't valid on its own.
 
 **Living in Thailand?** A Thai driving licence is the simplest option, and it's accepted by every rental company.
 
