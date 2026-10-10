@@ -8,6 +8,8 @@ description: Car rental made easy in Thailand. See what documents you need, depo
 
 Imagine that you land at Suvarnabhumi, walk to a counter in the arrivals hall, and fifteen minutes later you're on the road to Hua Hin, Khao Yai or Pattaya. **Car rental in Thailand can be that easy**, as long as you arrive with the right documents, understand the deposit and pick sensible insurance.
 
+<p align=center><img src="/assets/images/car_rental/airportcounter.jpg" width="85%" height="85%"></p>
+
 This guide covers everything that makes renting a car simple: a document checklist, five booking steps, real price ranges in Thai baht, and practical tips for driving in Thailand.
 
 **[Check car rental prices at DiscoverCars 👉](https://www.discovercars.com/?a_aid=paulw)**
