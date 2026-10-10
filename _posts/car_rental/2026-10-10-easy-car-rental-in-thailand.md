@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Car Rental Made Easy in Thailand: Book, Pick Up & Drive in Minutes
+title: "Car Rental Made Easy in Thailand: Book, Pick Up & Drive in Minutes"
 description: Car rental made easy in Thailand. See what documents you need, deposits, insurance and prices in THB, plus a 5-step booking checklist for airport pickup.
 ---
 
