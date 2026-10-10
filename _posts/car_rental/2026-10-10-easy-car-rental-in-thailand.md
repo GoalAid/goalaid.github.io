@@ -34,12 +34,12 @@ Three things make it hard, and all three are avoidable:
 Sort these three out before your trip and the rest is easy.
 
 ## What you need to rent a car in Thailand
-[ ] Driving licence + International Driving Permit (IDP)
-[ ] Passport (or Thai ID card)
-[ ] Credit card in the main driver's name
+[ ] Driving licence + International Driving Permit (IDP)\
+[ ] Passport (or Thai ID card)\
+[ ] Credit card in the main driver's name\
 [ ] Age and driving experience
 
-'Screenshot or print this before you travel.'
+`Screenshot or print this before you travel.`
 
 ### 1. Driving licence + International Driving Permit (IDP)
 
