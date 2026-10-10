@@ -10,7 +10,7 @@ Imagine that you land at Suvarnabhumi, walk to a counter in the arrivals hall, a
 
 This guide covers everything that makes renting a car simple: a document checklist, five booking steps, real price ranges in Thai baht, and practical tips for driving in Thailand.
 
-**[Check car rental prices 👉](https://www.discovercars.com/?a_aid=paulw)**
+**[Check car rental prices at DiscoverCars 👉](https://www.discovercars.com/?a_aid=paulw)**
 
 > **Key takeaways**\
 > Bring your **driving licence, an International Driving Permit (IDP), your passport** and a **credit card in the main driver's name**.\
@@ -18,8 +18,6 @@ This guide covers everything that makes renting a car simple: a document checkli
 > Expect a **security deposit of roughly 3,000–20,000 THB**, depending on the company and the car.\
 > Economy cars typically start around **800–1,500 THB per day**.\
 > Book online with **free cancellation** and pick up at the airport. It's the easiest way to rent.
-
-***
 
 ## Is car rental in Thailand easy?
 
@@ -74,13 +72,13 @@ No credit card? See [Renting without a credit card](#deposit-and-payment-credit-
 
 ### Step 1: Compare and book online
 
-(pic)(pic)
+<p align=center><img src="/assets/images/car_rental/search.jpg" width="85%" height="85%"></p>
 
 Booking ahead is cheaper and faster than walking up to a counter, especially in high season (November–March) and around Songkran (April). Choose a rate with **free cancellation** so you stay flexible. **[Search cars at your pickup location](https://www.discovercars.com/?a_aid=paulw)**
 
 ### Step 2: Choose the right car for your trip
 
-(pic)
+<p align=center><img src="/assets/images/car_rental/searchresult.jpg" width="85%" height="85%"></p>
 
 * **Economy / compact (Toyota Yaris, Honda City):** couples, city driving, easy parking
 * **Compact SUV (Honda HR-V, Toyota Corolla Cross):** island roads, mountain routes in the north
