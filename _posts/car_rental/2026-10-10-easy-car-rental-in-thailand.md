@@ -4,8 +4,6 @@ title: "Car Rental Made Easy in Thailand: Book, Pick Up & Drive in Minutes"
 description: Car rental made easy in Thailand. See what documents you need, deposits, insurance and prices in THB, plus a 5-step booking checklist for airport pickup.
 ---
 
-# Car Rental Made Easy in Thailand: Book, Pick Up & Drive in Minutes
-
 Imagine that you land at Suvarnabhumi, walk to a counter in the arrivals hall, and fifteen minutes later you're on the road to Hua Hin, Khao Yai or Pattaya. **Car rental in Thailand can be that easy**, as long as you arrive with the right documents, understand the deposit and pick sensible insurance.
 
 <p align=center><img src="/assets/images/car_rental/airportcounter_Thailand.jpg" width="85%" height="85%"></p>
