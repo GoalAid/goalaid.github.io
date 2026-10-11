@@ -4,6 +4,9 @@ title: "Car Rental Made Easy in Thailand: Book, Pick Up & Drive in Minutes"
 description: Car rental made easy in Thailand. See what documents you need, deposits, insurance and prices in THB, plus a 5-step booking checklist for airport pickup.
 ---
 
+> **Disclosure:** This guide contains affiliate links. If you book through them, GoalAid may earn a commission at no extra cost to you. We only recommend tools we would use ourselves.
+
+
 Imagine that you land at Suvarnabhumi, walk to a counter in the arrivals hall, and fifteen minutes later you're on the road to Hua Hin, Khao Yai or Pattaya. **Car rental in Thailand can be that easy**, as long as you arrive with the right documents, understand the deposit and pick sensible insurance.
 
 <p align=center><img src="/assets/images/car_rental/airportcounter_Thailand.jpg" width="85%" height="85%"></p>
@@ -32,10 +35,10 @@ Three things make it hard, and all three are avoidable:
 Sort these three out before your trip and the rest is easy.
 
 ## What you need to rent a car in Thailand
-[ ] Driving licence + International Driving Permit (IDP)\
-[ ] Passport (or Thai ID card)\
-[ ] Credit card in the main driver's name\
-[ ] Age and driving experience
+- [ ] Driving licence + International Driving Permit (IDP)
+- [ ] Passport (or Thai ID card)
+- [ ] Credit card in the main driver's name
+- [ ] Age and driving experience
 
 `Screenshot or print this before you travel.`
 
