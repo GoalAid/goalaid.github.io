@@ -1,7 +1,7 @@
 {
   "name": "Hotel App",
   "short_name": "Hotel",
-  "start_url": "/",
+  "start_url": "./rooms.html",
   "display": "standalone",
   "background_color": "#f4f6f8",
   "theme_color": "#17324d",
