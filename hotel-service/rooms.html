@@ -231,7 +231,7 @@
 
 <body>
 <header>
-    <h1>Harbor Hotel</h1>
+    <h1 id="hotel-name">Loading hotel name…</h1>
     <p>Room management</p>
   </header>
 
@@ -592,13 +592,46 @@
     filter.addEventListener("change", render);
 
     render();
-
+	  
 	  if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker.register("./service-worker.js")
       .catch(error => console.error("Service worker registration failed:", error));
   });
 	  }
+
+	  async function loadHotelName() {
+  const heading = document.getElementById("hotel-name");
+  //const errorElement = document.getElementById("hotel-error");
+  const token = localStorage.getItem("token");
+
+  if (!token) {
+    heading.textContent = "Please log in";
+    return;
+  }
+
+  try {
+    const response = await fetch("/api/hotel/dashboard", {
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error || `Server returned HTTP ${response.status}`);
+    }
+
+    heading.textContent = data.hotelName || "Hotel name unavailable";
+  } catch (error) {
+    heading.textContent = "Could not load hotel";
+    //errorElement.textContent = error.message;
+  }
+}
+
+loadHotelName();
+	  
   </script>
 </body>
 </html>
