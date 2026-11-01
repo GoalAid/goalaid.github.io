@@ -1,11 +1,7 @@
 const CACHE = "hotel-app-v1";
-const APP_FILES = [
-  "/",
-  "/index.html",
-  "/styles.css",
-  "/app.js",
-  "/icons/icon-192.png",
-  "/offline.html"
+const APP_FILES = [ 
+  "/hotel-service/rooms.html",
+  "/hotel-service/icon-192.png"
 ];
 
 self.addEventListener("install", event => {
@@ -35,11 +31,9 @@ self.addEventListener("fetch", event => {
   if (url.origin !== location.origin || url.pathname.startsWith("/api/")) return;
 
   event.respondWith(
-    fetch(event.request).catch(async () => {
-      const cached = await caches.match(event.request);
-      return cached || (event.request.mode === "navigate"
-        ? caches.match("/offline.html")
-        : Response.error());
+  fetch(event.request).catch(async () => {
+    const cached = await caches.match(event.request);
+    return cached || Response.error();
     })
   );
 });
