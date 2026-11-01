@@ -1,13 +1,16 @@
-const CACHE_NAME = "harbor-hotel-v1";
+const CACHE = "hotel-app-v1";
 const APP_FILES = [
-  "./",
-  "./rooms.html",
-  "./manifest.webmanifest"
+  "/",
+  "/index.html",
+  "/styles.css",
+  "/app.js",
+  "/icons/icon-192.png",
+  "/offline.html"
 ];
 
 self.addEventListener("install", event => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(APP_FILES))
+    caches.open(CACHE).then(cache => cache.addAll(APP_FILES))
   );
   self.skipWaiting();
 });
@@ -16,9 +19,7 @@ self.addEventListener("activate", event => {
   event.waitUntil(
     caches.keys().then(keys =>
       Promise.all(
-        keys
-          .filter(key => key !== CACHE_NAME)
-          .map(key => caches.delete(key))
+        keys.filter(key => key !== CACHE).map(key => caches.delete(key))
       )
     )
   );
@@ -26,21 +27,19 @@ self.addEventListener("activate", event => {
 });
 
 self.addEventListener("fetch", event => {
-  const request = event.request;
+  if (event.request.method !== "GET") return;
 
-  if (request.method !== "GET" || new URL(request.url).origin !== location.origin) {
-    return;
-  }
+  const url = new URL(event.request.url);
+
+  // Don't serve cached account/API responses as though they were current.
+  if (url.origin !== location.origin || url.pathname.startsWith("/api/")) return;
 
   event.respondWith(
-    caches.match(request).then(cached =>
-      cached || fetch(request).then(response => {
-        if (response.ok) {
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
-        }
-        return response;
-      })
-    )
+    fetch(event.request).catch(async () => {
+      const cached = await caches.match(event.request);
+      return cached || (event.request.mode === "navigate"
+        ? caches.match("/offline.html")
+        : Response.error());
+    })
   );
 });
